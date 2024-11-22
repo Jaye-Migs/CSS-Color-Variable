@@ -1,0 +1,15 @@
+:root {
+    --primary: #1DA1F2;
+    --secondary: #657786;
+    --background: #FFFFFF;
+    --success: #17BF63;
+    --warning: #FFAD1F;
+    --error: #E0245E;
+    --info: #0069B2;
+    --text-primary: #14171A;
+    --text-secondary:#657786;
+    --text-white: #FFFFFF;
+    --card-background: #F5F8FA;
+    --border: #E1E8ED;
+    --hover: #E8F5FE;
+}
